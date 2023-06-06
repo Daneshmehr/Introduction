@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Shahla Daneshmehr
+- 👋 Hi, I'm Shahla Daneshmehr.
 - 👀 I'm interested in Computational and Experimental Chemistry.🌱
 - 💞️ I'm interested in collaborating with others in improving the accuracy and reliability of quantum chemistry calculations in Gaussian and Gromacs.
 
