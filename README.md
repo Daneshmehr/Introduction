@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Daneshmehr
-- 👀 I’m interested in Computational and Experimental Chemistry.🌱
-- 💞️ I’m looking to collaborate on improving the accuracy and reliability of quantum chemistry calculations with Gaussian and Gromacs.
+- 👋 Hi, I'm Shahla Daneshmehr
+- 👀 I'm interested in Computational and Experimental Chemistry.🌱
+- 💞️ I'm interested in collaborating with others in improving the accuracy and reliability of quantum chemistry calculations in Gaussian and Gromacs.
 
 <!---
 Daneshmehr/Daneshmehr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
